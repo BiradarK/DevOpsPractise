@@ -1,11 +1,11 @@
 # This is a jenkins file with declarative syntax approach
 pipepline{
      stages{
-      stage{
-        steps{
+          stage{
+               steps{
           
-        }
-      }  
+               }
+          }  
     }
      stages{
       stage{
