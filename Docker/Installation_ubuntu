@@ -19,4 +19,4 @@ sudo groupadd docker
 sudo usermod -aG docker $USER
 newgrp docker
 apt update -y
-exit
+# exit
